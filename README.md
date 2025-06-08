@@ -4,7 +4,7 @@ This repository is organized as an npm workspace. The `frontend` package contain
 
 ## Available Scripts
 
-Run these commands from the repository root:
+Run these commands from the repository root. First install dependencies with `npm install`. This will set up packages for the root workspace and the `frontend` package:
 
 - `npm run dev:frontend` &mdash; start the frontend development server.
 - `npm run build:frontend` &mdash; build the frontend for production.
